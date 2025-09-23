@@ -8,7 +8,7 @@ Unfortunately, I didn’t attend to any internships or hackathons. But I did bui
   - M Design Auto Service: https://m-design-auto-service.vercel.app/
 
 ## Currently learning..📚 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,git,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,nodejs,express)](https://skillicons.dev)
 
 ## The languages and frameworks I would like to learn 💻 
-[![My Skills](https://skillicons.dev/icons?i=,ts,python,java,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,java,nextjs)](https://skillicons.dev)
