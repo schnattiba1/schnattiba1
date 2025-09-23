@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋🏼 Hello, world! 
 
-<!--
-**schnattiba1/schnattiba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 🤓
+My name is Chanel Chinedu, I’m a self-taught software developer who is passionate about programming and is growing a deep interest in both front-end and back-end web development. Currently, I’m homeschooled. I’m not attending to a university, but I have completed a 1-year level 5 QQI course in computer science (software development) and I’ve earned 6 distinctions in programming modules. The other two subjects, Communications and Work Experience were not coding related. I hope to attend to university next year to study computer science. 
 
-Here are some ideas to get you started:
+## Experience 🤔
+Unfortunately, I didn’t attend to any internships or hackathons. But I did build a website for a small mechanic company, where I did my work experience for two weeks. (I will be building more projects xD loading...) 
+  - M Design Auto Service: https://m-design-auto-service.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning..📚
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,git,react,nodejs,express)](https://skillicons.dev)
+
+## The languages and frameworks I would like to learn 💻
+[![My Skills](https://skillicons.dev/icons?i=,ts,python,java,nextjs)](https://skillicons.dev)
