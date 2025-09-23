@@ -7,8 +7,6 @@ My name is Chanel Chinedu, I’m a self-taught software developer who is passion
 Unfortunately, I didn’t attend to any internships or hackathons. But I did build a website for a small mechanic company, where I did my work experience for two weeks. (I will be building more projects xD loading...) 
   - M Design Auto Service: https://m-design-auto-service.vercel.app/
 
-## Currently learning..📚
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,git,react,nodejs,express)](https://skillicons.dev)
+## Currently learning..📚 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,git,react,nodejs,express)](https://skillicons.dev)
 
-## The languages and frameworks I would like to learn 💻
-[![My Skills](https://skillicons.dev/icons?i=,ts,python,java,nextjs)](https://skillicons.dev)
+## The languages and frameworks I would like to learn 💻 [![My Skills](https://skillicons.dev/icons?i=,ts,python,java,nextjs)](https://skillicons.dev)
