@@ -15,6 +15,8 @@ I play sometimes:
 - Call Of Duty
 - Minecraft
 - Roblox
+
+
 I used to play Pokemon but I rarely play it now ;-;.
 
 I love spending my precious time with my important people. 
