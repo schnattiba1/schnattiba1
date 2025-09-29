@@ -5,8 +5,8 @@ My name is Chanel Chinedu, I’m a self-taught Software Developer who is passion
 I'm also studying the Korean. I have studied Korean since 2020, but I'm still not good at it ;-;. 
 
 ## Hobbies 💫
-During my free time, I play video games.. a lot xD. I play most of the time Final Fantasy, Left 4 Dead 2 and Sonic!! (I'm a huge fan of Sonic since I was born xD). I sometimes play Valorant, Call Of Duty, Minecraft and Roblox too! I used to play a lot of Pokemon but I rarely play it now ;-;.
-I also love spending my precious time with my important people. I love taking a walks too. In my free time, I sometimes learn some Korean ^v^.
+During my free time, I play video games.. a lot xD. I play most of the time Final Fantasy, Left 4 Dead 2 and Sonic!! (I'm a huge fan of Sonic since I was born xD). I play sometimes Valorant, Call Of Duty, Minecraft and Roblox. I used to play Pokemon but I rarely play it now ;-;.
+I love spending my precious time with my important people. In my free time, I sometimes learn Korean ^v^. And of course, programming is one of my top favorite hobbies to do too ᯓ★.
 
 ## Experience 🤔
 Unfortunately, I didn’t attend to any internships or hackathons. But I did build a website for a small mechanic company, where I did my work experience for two weeks. (I will be building more projects xD loading...) 
