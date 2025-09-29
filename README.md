@@ -4,7 +4,7 @@
 My name is Chanel Chinedu, I’m a self-taught Software Developer who is passionate about programming and is growing a deep interest in both front-end and back-end development. Currently, I’m homeschooled. I’m not attending to any university. But, I've completed a 1-year level 5 QQI course in Computer Science (Software Development) and I’ve earned 6 distinctions in programming modules. The other two subjects, Communications and Work Experience were not coding related. I hope to attend to university next year to study Computer Science. 
 I'm also studying the Korean. I have studied Korean since 2020, but I'm still not good at it ;-;. 
 
-## Hobbies
+## Hobbies 💫
 During my free time, I play video games.. a lot xD. I play most of the time Final Fantasy, Left 4 Dead 2 and Sonic!! (I'm a huge fan of Sonic since I was born xD). I sometimes play Valorant, Call Of Duty, Minecraft and Roblox too! I used to play a lot of Pokemon but I rarely play it now ;-;.
 I also love spending my precious time with my important people. I love taking a walks too. In my free time, I sometimes learn some Korean ^v^.
 
