@@ -7,7 +7,7 @@ I've been homeschooled since 2020, but has pursued a level 5 QQI certificate in 
 As someone who is an aspiring Software Engineer, I love solving real-world problems and building software applications that help us improve our lives and make our lives much easier. I'm also interested in Cybersecurity - Security Engineering, where they secure data and networks from cyber-threats, vulnerabilities and attacks.
 
 ## Experience 🤔
-Unfortunately, I didn’t attend to any internships or hackathons. But I did build a website for a small mechanic company, where I did my work experience for two weeks. (I will be building more projects xD loading...) 
+Unfortunately, I didn’t attend to any internships or hackathons. But I did build a website for a small mechanic company, where I did my work experience for two weeks! - I'll be building more projects! Loading... xD
   - M Design Auto Service: https://m-auto-design.com/
 
 ## Currently learning..📚 
