@@ -9,6 +9,7 @@ As someone who is an aspiring Software Engineer, I love solving real-world probl
 ## Experience 🤔
 Unfortunately, I didn’t attend to any internships or hackathons. But I did build a website for a small mechanic company, where I did my work experience for two weeks! - I'll be building more projects! Loading... xD
   - M Design Auto Service: https://m-auto-design.com/
+  - Bible Verse AI Generator: https://bible-verse-ai-generator.vercel.app/
 
 ## Currently learning..📚 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react)](https://skillicons.dev)
