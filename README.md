@@ -11,5 +11,5 @@ Unfortunately, I didn’t attend to any internships or hackathons. But I did bui
   - M Design Auto Service: https://m-auto-design.com/
   - Bible Verse AI Generator: https://bible-verse-ai-generator.vercel.app/
 
-## Currently learning..📚 
+## Tech Stack 👾 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react)](https://skillicons.dev)
