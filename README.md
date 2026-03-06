@@ -12,4 +12,4 @@ Unfortunately, I didn’t attend to any internships or hackathons. But I did bui
   - Bible Verse AI Generator: https://bible-verse-ai-generator.vercel.app/
 
 ## Tech Stack 👾 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,three)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,threejs)](https://skillicons.dev)
